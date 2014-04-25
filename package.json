@@ -43,7 +43,7 @@
     "grunt-contrib-jshint": "latest"
   },
   "dependencies": {
-    "jsdoc": "~3.2.2",
+    "jsdoc": "3.3.x",
     "ink-docstrap": "~0.3.0-0"
   },
   "peerDependencies": {
